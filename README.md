@@ -7,7 +7,7 @@ A simple script to set up mesh network based on easytier core
 
 Run the following script on your server (Debian or Ubuntu):
 ```
-bash <(curl -Ls --ipv4 https://github.com/Musixal/easy-mesh/raw/main/easymesh.sh)
+bash <(curl -Ls --ipv4 https://github.com/omid-j-d/easy-mesh/raw/main/easymesh.sh)
 ```
 
 ## My Telegram channel
