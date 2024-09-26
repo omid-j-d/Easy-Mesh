@@ -78,7 +78,7 @@ install_easytier() {
     #URL_ARM_HARD="https://github.com/EasyTier/EasyTier/releases/download/v1.1.0/easytier-armv7-unknown-linux-musleabihf-v1.1.0.zip"
 
     #New Version
-    URL_X86="https://github.com/Musixal/Easy-Mesh/raw/main/core/v1.2.0/easytier-linux-x86_64/"
+    URL_X86="https://github.com/omid-j-d/Easy-Mesh/raw/main/core/v1.2.0/easytier-linux-x86_64/"
     URL_ARM_SOFT="https://github.com/Musixal/Easy-Mesh/raw/main/core/v1.2.0/easytier-linux-armv7/"              
     URL_ARM_HARD="https://github.com/Musixal/Easy-Mesh/raw/main/core/v1.2.0/easytier-linux-armv7hf/"
     
